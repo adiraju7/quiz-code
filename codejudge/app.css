@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .quiz-list, .quiz-questions {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .quiz-questions {
+    display: none;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  #quiz-list li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  #next-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #score {
+    margin-top: 20px;
+  }
+  
